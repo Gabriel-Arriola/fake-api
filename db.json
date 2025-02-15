@@ -2,14 +2,14 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "model": {
+        "code": 100,
+        "description": "heloo world"
+        }
     }
   ],
   "profile": {
     "name": "typicode"
-  },
-  "model": {
-    "code": 100,
-    "description": "heloo world"
   }
 }
