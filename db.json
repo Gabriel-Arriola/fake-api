@@ -1,11 +1,202 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hellooooo"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "weather": [
+        {
+            "id": 1,
+            "name": "Córdoba",
+            "country": "AR",
+            "coord": {
+                "lon": -64.1811,
+                "lat": -31.4135
+            },
+            "weather": [
+                {
+                    "main": "Clouds",
+                    "description": "broken clouds"
+                }
+            ],
+            "main": {
+                "temp": 297.32,
+                "feels_like": 298.01,
+                "temp_min": 297.17,
+                "temp_max": 298.25,
+                "pressure": 1009,
+                "humidity": 85,
+                "sea_level": 1009,
+                "grnd_level": 953
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.06,
+                "deg": 220
+            },
+            "clouds": {
+                "all": 75
+            }
+        },
+        {
+            "id": 2,
+            "name": "London",
+            "country": "GB",
+            "coord": {
+                "lon": -0.1257,
+                "lat": 51.5085
+            },
+            "weather": [
+                {
+                    "main": "Rain",
+                    "description": "light rain"
+                }
+            ],
+            "main": {
+                "temp": 278.2,
+                "feels_like": 278.2,
+                "temp_min": 277.47,
+                "temp_max": 279.21,
+                "pressure": 1019,
+                "humidity": 82,
+                "sea_level": 1019,
+                "grnd_level": 1015
+            },
+            "visibility": 8959,
+            "wind": {
+                "speed": 0.89,
+                "deg": 84
+            },
+            "clouds": {
+                "all": 100
+            }
+        },
+        {
+            "id": 3,
+            "name": "Beijing",
+            "country": "CN",
+            "coord": {
+                "lon": 116.3972,
+                "lat": 39.9075
+            },
+            "weather": [
+                {
+                    "main": "Clear",
+                    "description": "clear sky"
+                }
+            ],
+            "main": {
+                "temp": 280.09,
+                "feels_like": 276.21,
+                "temp_min": 280.09,
+                "temp_max": 280.09,
+                "pressure": 1019,
+                "humidity": 30,
+                "sea_level": 1019,
+                "grnd_level": 1014
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.83,
+                "deg": 333
+            },
+            "clouds": {
+                "all": 0
+            }
+        },
+        {
+            "id": 4,
+            "name": "Huston",
+            "country": "US",
+            "coord": {
+                "lon": -116.7832,
+                "lat": 43.6102
+            },
+            "weather": [
+                {
+                    "main": "Clouds",
+                    "description": "overcast clouds"
+                }
+            ],
+            "main": {
+                "temp": 268.94,
+                "feels_like": 266.52,
+                "temp_min": 268.94,
+                "temp_max": 270.2,
+                "pressure": 1035,
+                "humidity": 80,
+                "sea_level": 1035,
+                "grnd_level": 940
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.54,
+                "deg": 120
+            },
+            "clouds": {
+                "all": 1000
+            }
+        },
+        {
+            "id": 5,
+            "name": "Delhi",
+            "country": "IN",
+            "coord": {
+                "lon": 77.2167,
+                "lat": 28.6667
+            },
+            "weather": [
+                {
+                    "main": "Haze",
+                    "description": "haze"
+                }
+            ],
+            "main": {
+                "temp": 292.2,
+                "feels_like": 291.41,
+                "temp_min": 292.2,
+                "temp_max": 292.2,
+                "pressure": 1011,
+                "humidity": 48,
+                "sea_level": 1011,
+                "grnd_level": 986
+            },
+            "visibility": 4000,
+            "wind": {
+                "speed": 1.03,
+                "deg": 0
+            },
+            "clouds": {
+                "all": 2
+            }
+        },
+        {
+            "id": 6,
+            "name": "Lima",
+            "country": "PE",
+            "coord": {
+                "lon": -77.0282,
+                "lat": -12.0432
+            },
+            "weather": [
+                {
+                    "main": "Clouds",
+                    "description": "scattered clouds"
+                }
+            ],
+            "main": {
+                "temp": 298.29,
+                "feels_like": 298.77,
+                "temp_min": 298.29,
+                "temp_max": 298.29,
+                "pressure": 1012,
+                "humidity": 73,
+                "sea_level": 1012,
+                "grnd_level": 986
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.17,
+                "deg": 180
+            },
+            "clouds": {
+                "all": 40
+            }
+        }
+    ]
 }
