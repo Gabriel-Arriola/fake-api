@@ -2,11 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "hellooooo",
-      "model": {
-        "code": 100,
-        "description": "heloo world"
-        }
+      "title": "hellooooo"
     }
   ],
   "profile": {
