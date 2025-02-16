@@ -180,10 +180,10 @@
                 }
             ],
             "main": {
-                "temp": 77.252,
-                "feels_like": 78.116,
-                "temp_min": 77.252,
-                "temp_max": 77.252,
+                "temp": 88.79,
+                "feels_like": 88.116,
+                "temp_min": 88.252,
+                "temp_max": 88.252,
                 "pressure": 1012,
                 "humidity": 73,
                 "sea_level": 1012,
@@ -213,10 +213,10 @@
                 }
             ],
             "main": {
-                "temp": 72.896,
-                "feels_like": 72.194,
-                "temp_min": 72.896,
-                "temp_max": 72.896,
+                "temp": 100.454,
+                "feels_like": 100.852,
+                "temp_min": 99.988,
+                "temp_max": 101.15,
                 "pressure": 1008,
                 "humidity": 49,
                 "sea_level": 1008,
@@ -229,6 +229,72 @@
             },
             "clouds": {
                 "all": 89
+            }
+        },
+        {
+            "id": 8,
+            "name": "Toronto",
+            "country": "CA",
+            "coord": {
+                "lon": -79.4163,
+                "lat": 43.7001
+            },
+            "weather": [
+                {
+                    "main": "Snow",
+                    "description": "snow"
+                }
+            ],
+            "main": {
+                "temp": 19.292,
+                "feels_like": 16.692,
+                "temp_min": 17.708,
+                "temp_max": 20.588,
+                "pressure": 997,
+                "humidity": 89,
+                "sea_level": 997,
+                "grnd_level": 980
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 6.69,
+                "deg": 10
+            },
+            "clouds": {
+                "all": 100
+            }
+        },
+        {
+            "id": 9,
+            "name": "Bangkok",
+            "country": "TH",
+            "coord": {
+                "lon": 100.5167,
+                "lat": 13.75
+            },
+            "weather": [
+                {
+                    "main": "Thunderstorm",
+                    "description": "thunderstorm"
+                }
+            ],
+            "main": {
+                "temp": 84.542,
+                "feels_like": 84.692,
+                "temp_min": 84.708,
+                "temp_max": 84.588,
+                "pressure": 1011,
+                "humidity": 67,
+                "sea_level": 1011,
+                "grnd_level": 1010
+            },
+            "visibility": 1000,
+            "wind": {
+                "speed": 8.69,
+                "deg": 108
+            },
+            "clouds": {
+                "all": 100
             }
         }
     ]
