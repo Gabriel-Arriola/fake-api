@@ -15,10 +15,10 @@
                 }
             ],
             "main": {
-                "temp": 297.32,
-                "feels_like": 298.01,
-                "temp_min": 297.17,
-                "temp_max": 298.25,
+                "temp": 75.506,
+                "feels_like": 76.748,
+                "temp_min": 75.236,
+                "temp_max": 77.18,
                 "pressure": 1009,
                 "humidity": 85,
                 "sea_level": 1009,
@@ -48,10 +48,10 @@
                 }
             ],
             "main": {
-                "temp": 278.2,
-                "feels_like": 278.2,
-                "temp_min": 277.47,
-                "temp_max": 279.21,
+                "temp": 41.09,
+                "feels_like": 41.09,
+                "temp_min": 39.776,
+                "temp_max": 42.908,
                 "pressure": 1019,
                 "humidity": 82,
                 "sea_level": 1019,
@@ -81,10 +81,10 @@
                 }
             ],
             "main": {
-                "temp": 280.09,
-                "feels_like": 276.21,
-                "temp_min": 280.09,
-                "temp_max": 280.09,
+                "temp": 44.492,
+                "feels_like": 37.508,
+                "temp_min": 44.492,
+                "temp_max": 44.492,
                 "pressure": 1019,
                 "humidity": 30,
                 "sea_level": 1019,
@@ -114,10 +114,10 @@
                 }
             ],
             "main": {
-                "temp": 268.94,
-                "feels_like": 266.52,
-                "temp_min": 268.94,
-                "temp_max": 270.2,
+                "temp": 24.422,
+                "feels_like": 20.066,
+                "temp_min": 24.422,
+                "temp_max": 26.69,
                 "pressure": 1035,
                 "humidity": 80,
                 "sea_level": 1035,
@@ -147,10 +147,10 @@
                 }
             ],
             "main": {
-                "temp": 292.2,
-                "feels_like": 291.41,
-                "temp_min": 292.2,
-                "temp_max": 292.2,
+                "temp": 66.29,
+                "feels_like": 64.868,
+                "temp_min": 66.29,
+                "temp_max": 66.29,
                 "pressure": 1011,
                 "humidity": 48,
                 "sea_level": 1011,
@@ -180,10 +180,10 @@
                 }
             ],
             "main": {
-                "temp": 298.29,
-                "feels_like": 298.77,
-                "temp_min": 298.29,
-                "temp_max": 298.29,
+                "temp": 77.252,
+                "feels_like": 78.116,
+                "temp_min": 77.252,
+                "temp_max": 77.252,
                 "pressure": 1012,
                 "humidity": 73,
                 "sea_level": 1012,
@@ -196,6 +196,39 @@
             },
             "clouds": {
                 "all": 40
+            }
+        },
+        {
+            "id": 7,
+            "name": "Lima",
+            "country": "AR",
+            "coord": {
+                "lon": -65.4992,
+                "lat": -23.7461
+            },
+            "weather": [
+                {
+                    "main": "Clouds",
+                    "description": "overcast clouds"
+                }
+            ],
+            "main": {
+                "temp": 72.896,
+                "feels_like": 72.194,
+                "temp_min": 72.896,
+                "temp_max": 72.896,
+                "pressure": 1008,
+                "humidity": 49,
+                "sea_level": 1008,
+                "grnd_level": 683
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 1.03,
+                "deg": 36
+            },
+            "clouds": {
+                "all": 89
             }
         }
     ]
